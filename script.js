@@ -11,4 +11,4 @@ function btnOnClick() {
     pResult.innerText = "Resultado: " + sumaInputs;
 }
 
-
+//comentario añadido para prueba de llave
